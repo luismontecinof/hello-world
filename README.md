@@ -1,5 +1,4 @@
 # hello-world
-Mi primer repositorio
+My first repository
 
-Saludos, esta es una prueba de mi primer repositorio en GitHub, 
-creando un nuevo branch para este archivo readme.
+Hi, this is a test of my first repository on GitHub, creating a new branch for this readme file.
